@@ -39,9 +39,3 @@ RSpec.describe Message, type: :model do
     end
   end
 end
-
-#  bundle exec rspec spec/models/message_spec.rb
-# @message.errors
-# @message.errors.full_messages
-
-# binding.pry
